@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.modal-header {
+            background-color: #007bff; /* Bootstrap primary color */
+            color: white; /* White text for contrast */
+        }
+        .modal-title {
+            font-weight: bold; /* Make title bold */
+        }
+        .modal-body {
+            padding: 20px; /* Add some padding to the modal body */
+        }
+        .form-group label {
+            font-weight: bold; /* Make labels bold */
+        }
+        .btn-primary {
+            background-color: #007bff; /* Bootstrap primary color */
+            border-color: #007bff; /* Match border color to button */
+        }
+        .btn-primary:hover {
+            background-color: #0056b3; /* Darker shade on hover */
+            border-color: #0056b3; /* Match border color on hover */
+        }
+        .close {
+            color: white; /* Close button color */
+        }
